@@ -1,1 +1,3 @@
 # NetworkChat
+
+This is currently a study project learning Java...
